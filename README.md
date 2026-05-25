@@ -1,8 +1,5 @@
-DecodeLabs_Internship Projects
+                                                           DecodeLabs_Internship Projects
 
- Repository Structure:
-Project(1).py: Password Strength Analyzer** – Dynamic evaluation of credential entropy and security compliance.
-Prog(2).py: Cryptographic Matrix Analyzer** – Reversible stream cipher obfuscation implementing the historical Caesar Cipher technique.
 
 Project 1: Password Strength Analyzer
 
