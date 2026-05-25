@@ -7,8 +7,8 @@ Overview:
 An advanced, real-time security application designed to analyze password complexity and evaluate risk classification. Instead of utilizing traditional, performance-heavy loops, this tool features highly optimized Pythonic built-ins to process logic strings instantaneously.
 
 Key Features:
-Real-Time Entropy Tracking:** Built using an interactive graphical arc gauge that visually updates its coverage based on the password strength score.
-Live Compliance Checklist:** Dynamic checkboxes that instantly verify password length and the inclusion of numbers, uppercase letters, and special symbols as the user types.
+Real-Time Entropy Tracking:Built using an interactive graphical arc gauge that visually updates its coverage based on the password strength score.
+Live Compliance Checklist:Dynamic checkboxes that instantly verify password length and the inclusion of numbers, uppercase letters, and special symbols as the user types.
 Security Masking:** Implements secure character masking (`*`) within the input credential string field to ensure shoulder-surfing protection.
 
 Logic & Classification:
